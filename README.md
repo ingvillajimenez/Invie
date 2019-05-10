@@ -1,2 +1,2 @@
 # Invie
-El sitio para las guitarras invie-sibles
+Tus mejores guitarras invie-sibles by @platzi
